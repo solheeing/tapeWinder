@@ -2,9 +2,10 @@
 
 ### Project Introduction
 **tapeWinder** is a project focused on the design, fabrication, and testing of composite structures using prepreg tape winding.
-I started by sketching the initial structure and designed custom molds for winding. These molds were 3D printed using water-soluble Aquaprint filament.
-After winding the prepreg tape onto the molds, I evaluated the prototypes and iterated the design to improve structural performance.
-The final models were analyzed through CAE simulations and validated with real-world bending tests.
+The process began with initial structural sketches, followed by the design of custom winding molds.
+These molds were 3D printed using water-soluble Aquaprint filament.
+Prepreg tape was then wound onto the molds, and the resulting prototypes were evaluated to identify opportunities for improving structural performance.
+After refining the designs, the final models underwent CAE simulations and real-world bending tests to verify their performance.
 
 ## 💡 Preview
 
