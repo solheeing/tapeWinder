@@ -26,6 +26,10 @@ After refining the designs, the final models underwent CAE simulations and real-
 ![bending-straight](img/bending-straight.png)
 ![bending-arc](img/bending-arc.png)
 
+## 🔍 Improvement plan
+![bridge-groove](img/bridge-groove.png)
+- Bridge model with grooves along the top
+
 ## ⚒️ Tools
 - **Fusion 360**: CAD modeling, CAE simulations
 - **Aquaprint filament + 3D printer**: Mold fabrication
